@@ -1,0 +1,34 @@
+class AppAssets {
+  static const String quranBg="assets/images/quran_bg.png";
+  static const String hadethBg="assets/images/hadeth_bg.png";
+  static const String sebhaBg="assets/images/sebha_bg.png";
+  static const String radioBg="assets/images/radio_bg.png";
+  static const String timeBg="assets/images/time_bg.png";
+  static const String iconQuran="assets/images/icon_quran.png";
+  static const String iconHadeth="assets/images/icon_hadeth.png";
+  static const String iconRadio="assets/images/icon_radio.png";
+  static const String iconSebha="assets/images/icon_sebha.png";
+  static const String iconTime="assets/images/icon_time.png";
+  static const String iconQuranSelected="assets/images/icon_quran_selected.png";
+  static const String iconHadethSelected="assets/images/icon_hadeth_selected.png";
+  static const String iconRadioSelected="assets/images/icon_radio_selected.png";
+  static const String iconSebhaSelected="assets/images/icon_sebha_selected.png";
+  static const String iconTimeSelected="assets/images/icon_time_selected.png";
+  static const String logoIslami="assets/images/logo_islami.png";
+  static const String img_most_recent="assets/images/img_most_recent.png";
+  static const String img_vector="assets/images/img_vector.png";
+  static const String detailsBg="assets/images/detailsBg.png";
+  static const String verses_numbers="assets/images/verses_numbers.png";
+  static const String quranShape1="assets/images/quran_shape.png";
+  static const String quranShape2="assets/images/quran_shape2.png";
+  static const String hadethContentBg="assets/images/hadeth_content_bg.png";
+  static const String sebhaBody="assets/images/sebhaBody.png";
+  static const String sebhaHead="assets/images/sebhaHead.png";
+  static const String radioMosqo="assets/images/radio_mosqo.png";
+  static const String play="assets/images/play.png";
+  static const String soundOn="assets/images/sound_on.png";
+  static const String soundOff="assets/images/sound_off.png";
+  static const String pause="assets/images/pause.png";
+  static const String sound="assets/images/sound.png";
+
+}
