@@ -110,12 +110,10 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
                     curve: Curves.easeInOut,
                   );
                 } else {
-                  // حفظ ان المستخدم شاف الـ Onboarding
                   SharedPreferences prefs =
                       await SharedPreferences.getInstance();
                   await prefs.setBool('seenOnboarding', true);
 
-                  // الانتقال للـ Home باستخدام named route
                   Navigator.pushReplacementNamed(context, AppRoute.homeScreen);
                 }
               },
