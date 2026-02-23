@@ -30,5 +30,9 @@ class AppAssets {
   static const String soundOff="assets/images/sound_off.png";
   static const String pause="assets/images/pause.png";
   static const String sound="assets/images/sound.png";
-
+  static const String board1 = "assets/images/board1.png";
+  static const String board2 = "assets/images/board2.png";
+  static const String board3 = "assets/images/board3.png";
+  static const String board4 = "assets/images/board4.png";
+  static const String board5 = "assets/images/board5.png";
 }

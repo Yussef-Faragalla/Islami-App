@@ -1,7 +1,4 @@
-import 'dart:ui';
-
 import 'package:flutter/src/painting/text_style.dart';
-import 'package:google_fonts/google_fonts.dart';
 
 import 'app_color.dart';
 
@@ -53,6 +50,11 @@ class AppStyle {
   );
   static final TextStyle jannaBlack16bold =TextStyle(
       color: AppColor.blackColor,
+      fontSize: 16,
+      fontFamily: "JannaLT"
+  );
+  static final TextStyle jannaGold16bold = TextStyle(
+      color: AppColor.goldColor,
       fontSize: 16,
       fontFamily: "JannaLT"
   );
